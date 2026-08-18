@@ -3,7 +3,7 @@ plugins {
     id 'maven-publish'
 }
 
-group = 'me.JackwCI'
+group = 'me.jackwci'
 version = '1.0-SNAPSHOT'
 
 repositories {
