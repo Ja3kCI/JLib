@@ -9,7 +9,7 @@ java {
     }
 }
 
-group = 'me.jackwci'
+group = 'com.github.Ja3kCI'
 version = '1.0-SNAPSHOT'
 
 repositories {
