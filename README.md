@@ -1,4 +1,4 @@
-# JLIB [PAPER]
+# JLIB [PAPER] (https://github.com/Ja3kCI/JLib/wiki)
 
 **This api is currently in development phase, you have been warned, any suggestions please leave in issues**
 
