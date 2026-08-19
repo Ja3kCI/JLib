@@ -1,3 +1,4 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJa3kCI%2FJLib.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FJa3kCI%2FJLib?ref=badge_shield&issueType=license)
 # JLIB [PAPER] (https://github.com/Ja3kCI/JLib/wiki)
 
 **This api is currently in development phase, you have been warned, any suggestions please leave in issues**
