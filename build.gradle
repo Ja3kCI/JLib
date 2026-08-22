@@ -9,8 +9,8 @@ java {
     }
 }
 
-group = 'com.github.Ja3kCI'
-version = '1.0-SNAPSHOT'
+group = 'com.github.ja3kci'
+version = '1.0.0'
 
 repositories {
     mavenCentral()
@@ -30,6 +30,10 @@ publishing {
     publications {
         mavenJava(MavenPublication) {
             from components.java
+
+            groupId = project.group
+            artifactId = 'jlib'
+            version = project.version
         }
     }
 }
